@@ -1,11 +1,11 @@
 telegram:
-  api_id: 00000000000
-  api_hash: "<PASTE-HERE-TELEGRAM-API-HASH>"
-  token: "<PASTE-HERE-TELEGRAM-TOKEN>"
+  api_id: 15882573
+  api_hash: "dddd64edfc5326e4a35e448347b83e2d"
+  token: "5841090279:AAEFdBGF5F7ELH9-vW5LbZ5x4h_MvUXzlCo"
   lang_code: !!str "en"
   max_upload_tasks: 5
   allowed_users:
-    - id: 00000000000
+    - id: 2094128105
       send_startup_message: !!bool True
       upload:
         upload_video_file: !!bool False
